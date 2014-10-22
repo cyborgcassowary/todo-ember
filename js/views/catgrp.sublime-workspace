@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"cell",
+				"cellpadding	Attr"
+			],
+			[
+				"cl",
+				"cellspacing	Attr"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/CyborgCassowary/Sites/catalystgroup/newsletter/index.html",
+			"settings":
+			{
+				"buffer_size": 6650,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/CyborgCassowary/Sites/catalystgroup",
+		"/Users/CyborgCassowary/Sites/catalystgroup/newsletter"
+	],
+	"file_history":
+	[
+		"/Users/CyborgCassowary/Sites/todo-ember/js/views/catgrp.sublime-project",
+		"/Users/CyborgCassowary/Sites/todo-ember/todolist.sublime-project",
+		"/Users/CyborgCassowary/Sites/example/sites/all/themes/adminimal_theme/css/style.css",
+		"/usr/local/lib/drush/README.md",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/config/routes.php",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/views/blogview.php",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/views/upload_form.php",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/views/upload_success.php",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/controllers/upload.php",
+		"/Users/CyborgCassowary/Sites/phpinfo.php",
+		"/Users/CyborgCassowary/Sites/djw/boutique/gallery_2014prom.php",
+		"/Users/CyborgCassowary/Sites/djw/boutique/sport.php",
+		"/Users/CyborgCassowary/Sites/djw/boutique/shortdresses.php",
+		"/Users/CyborgCassowary/Sites/djw/boutique/longdresses.php",
+		"/Users/CyborgCassowary/Sites/djw/boutique/current.php",
+		"/Users/CyborgCassowary/Sites/ryanhettler/sublime/ryanhettler.sublime-project",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/views/pages/about.php",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/views/news/index.php",
+		"/Users/CyborgCassowary/Sites/shitiwalkedinto/const/index.html",
+		"/Users/CyborgCassowary/Sites/codeigniter_2/jillwillkilljack/controllers/blog.php",
+		"/Users/CyborgCassowary/Sites/djw/index.php",
+		"/Users/CyborgCassowary/Sites/page_elements/PageElements.php",
+		"/Users/CyborgCassowary/Sites/ryanhettler/pages/resources.php",
+		"/Users/CyborgCassowary/Sites/bootstrap/index.html",
+		"/Users/CyborgCassowary/Sites/bootstrap/js/jquery_1_11.js",
+		"/Users/CyborgCassowary/Sites/psy-fi/bootstrap/js/bootstrap.min.css",
+		"/Users/CyborgCassowary/Sites/bootstrap/css/stickyfooter.css",
+		"/Users/CyborgCassowary/Sites/psy-fi/new/css/psy-fi.css",
+		"/Users/CyborgCassowary/Sites/psy-fi/new/index.php",
+		"/Users/CyborgCassowary/Sites/psy-fi/new/js/psy-fi.js",
+		"/Users/CyborgCassowary/Sites/ryanhettler/pages/portfolio.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"#82000b",
+			"#fdb713",
+			"100",
+			"<img src=\"http://www.catalystgrp.com/newsletter/",
+			"<img src=\"http://www.catalystgrp.com/newsletter/evonik.gif\"",
+			"<img src=\"http://www.catalystgrp.com/newsletter/",
+			"<td>",
+			"<br>",
+			"</strong>",
+			"·",
+			"</div>",
+			"class=\" img-responsive\" ",
+			"<div class=\"col-sm-6 max-450\"",
+			"<img src=\"../images/interior_img.png\" alt=\"\" class=\"col-sm-6 img-responsive max-450\" />",
+			"images/",
+			"/new",
+			"portfolio-txt-center",
+			"2011 PA Safety Days",
+			"415,",
+			"2868,",
+			"2011 PA Safety Days",
+			"Intermediate Microsoft Excel 2000",
+			"Albert C Knepp Jr,Maintenance,Intermediate Microsoft Excel 2000",
+			"453,",
+			"442,",
+			"422,",
+			"412,",
+			"Albert C Knepp Jr",
+			"422",
+			"style=\"padding-right: 15px; padding-left: 15px;\"",
+			"width:98",
+			"width:98%;",
+			"width:100%",
+			"100%",
+			"cyborgcassowary.com",
+			"images/",
+			"<!--",
+			"   line-height:125% !important;",
+			"templateColumns",
+			"cellpadding=\"10\"",
+			".centerheadline",
+			".headline",
+			".centerheadline",
+			"headline",
+			"RH",
+			".headline",
+			"headline",
+			"sports",
+			"shortdresses",
+			"longdresses",
+			"ul",
+			"<li>",
+			"</li>",
+			"#c0c0c0",
+			"c0c0c0",
+			".navbar-fixed-bottom",
+			".navbar",
+			"\">",
+			",",
+			"border:1px #ccc solid;",
+			"overflow",
+			"home",
+			"128",
+			"href=\"",
+			"display: none;",
+			"hide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/CyborgCassowary/Sites/catalystgroup/newsletter/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4486,
+								4482
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2046.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "/Users/CyborgCassowary/Sites/catalystgroup/newsletter/american_chemistry_council.gif",
+					"semi_transient": true,
+					"stack_index": 1,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "catgrp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

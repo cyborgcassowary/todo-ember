@@ -36,4 +36,4 @@ Contact
 [www.emberjs.com](http://www.emberjs.com)
 
 
-Stop on [Editing State](http://emberjs.com/guides/getting-started/toggle-todo-editing-state/)
+Stopped on: http://emberjs.com/guides/getting-started/show-only-incomplete-todos/

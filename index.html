@@ -7,6 +7,26 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
+<script type="text/x-handlebars" data-template-name="todos/index">
+   <ul id="todo-list">
+          {{#each itemController="todo"}}
+            <li {{bind-attr class="isCompleted:completed isEditing:editing"}}>
+            {{#if isEditing}}
+              {{edit-todo class="edit" value=title focus-out="acceptChanges" insert-newline="acceptChanges"}}
+          {{else}}
+              {{input type="checkbox" checked=isCompleted class="toggle"}}
+              <label {{action "editTodo" on="doubleClick"}}>{{title}}</label>
+              <button class="destroy" {{action "removeTodo"}}></button>
+             {{/if}}
+            </li>
+           
+          {{/each}}
+          
+        </ul>
+</script>
+
+
 <script type="text/x-handlebars" data-template-name="todos">
   <section id="todoapp">
       <header id="header">
@@ -15,16 +35,8 @@
               value=newTitle action="createTodo"}}
       </header>
 
-      <section id="main">
-        <ul id="todo-list">
-          {{#each itemController="todo"}}
-            <li {{bind-attr class="isCompleted:completed"}}>
-              {{input type="checkbox" checked=isCompleted class="toggle"}}
-              <label>{{title}}</label><button class="destroy"></button>
-            </li>
-          {{/each}}
-          
-        </ul>
+      <section id="main"> 
+      {{outlet}}
 
         <input type="checkbox" id="toggle-all">
       </section>
@@ -65,5 +77,6 @@
   <script src="js/models/todo.js"></script>
   <script src="js/controllers/todos_controller.js"></script>
   <script src="js/controllers/todo_controller.js"></script>
+  <script src="js/views/edit_todo_view.js"></script>
 </body>
 </html>
